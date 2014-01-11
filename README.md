@@ -1,3 +1,5 @@
+Just an adaptation For eclipse
+
 ##Description
 
 Small library allowing you to make a smooth indeterminate progress bar. You can either user your progress bars and set this drawable or use directly the `SmoothProgressBarView`.
