@@ -3,7 +3,7 @@
     package="fr.castorflex.android.smoothprogressbar">
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="14"
         android:targetSdkVersion="19" />
 
 </manifest>
